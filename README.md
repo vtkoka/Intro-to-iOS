@@ -29,7 +29,7 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 Notes
 
-The video tutorial did a very good job of explaining how to build the application. I tried to load the application on my iPhone but my xcode version doesn't support my updated iPhone but that was the only issue which I can easily resolve by updating xcode. 
+The video tutorial did a very good job of explaining how to build the application. I tried to load the application on my iPhone but my xcode version doesn't support my updated iPhone but that was the only issue which I can easily resolve by updating xcode. Also, I attempted to complete the settings page but I wasn't able to finish since I just decided to apply for this course a few days ago and didn't have time to add more to it. I taught myself Android programming in high school and teh general premise seems to be similar; I see the main difference being Java versus Swift from what I've noticed so far. I'm looking forward to get deeper into iOS programming in the coming weeks!
 
 License
 
