@@ -1,8 +1,8 @@
 # Intro-to-iOS
-Pre-work - Tips
+Pre-work - Tip Calculator
 
 Submitted by: Vaishnavi Koka
-Time Spent: 4 hours total
+Time Spent: 5 hours total
 
 User Stories
 The following **required** functionality is complete:
