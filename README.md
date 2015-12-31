@@ -22,7 +22,8 @@ The following **additional** features are implemented:
 Video Walkthrough
 
 Here's a walkthrough of the Tips app:
-[Video Walkthrough](http://imgur.com/tZz7Zdw)
+ 
+<img src='http://i.imgur.com/tZz7Zdw.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
